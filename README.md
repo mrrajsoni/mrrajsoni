@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrrajsoni
-- 👀 I’m love converting complex UI designs to the pixel perfect web pages.
+- 👀 I convert complex UI designs to the pixel perfect web pages.
 - 🌱 I’m currently working on ReactJs.
 - 💞️ I’m looking to collaborate on frontend development projects remotely.
 - 📫 Reach me at raj@inventtheweb.com
