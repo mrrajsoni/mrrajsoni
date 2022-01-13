@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrrajsoni
 - 👀 I’m interested in converting UI designs to the pixel perfect web pages.
-- 🌱 I’m currently learning ReactJs and VueJs.
+- 🌱 I’m currently working on ReactJs.
 - 💞️ I’m looking to collaborate on frontend development projects remotely.
 - 📫 Reach me at raj@inventtheweb.com
 
