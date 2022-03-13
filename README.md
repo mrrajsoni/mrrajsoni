@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mrrajsoni
-- 👀 I convert complex UI designs to the pixel perfect web pages.
-- 🌱 I’m currently working on ReactJs.
-- 💞️ I’m looking to collaborate on frontend development projects remotely.
-- 📫 Reach me at raj@inventtheweb.com
+- 👋 UI developer (ReactJs) with 2 years of experience. Reach me at raj@inventtheweb.com
 
 <!---
 mrrajsoni/mrrajsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
