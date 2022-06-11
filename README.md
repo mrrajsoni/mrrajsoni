@@ -1,6 +1,6 @@
 👋 Frontend Developer (ReactJs) with 9 months of experience. Currently working for [Lumel Technologies](https://lumel.com).
 
-💻 Tech Stack - <a href="https://reactjs.org/">ReactJs</a>, <a href="https://tailwindcss.com/">Redux</a>, <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://www.gatsbyjs.com/">GatsbyJs</a>, <a href="https://sass-lang.com/">SASS</a>
+💻 Tech Stack - <a href="https://reactjs.org/">ReactJs</a>, <a href="https://redux.js.org/">Redux</a>, <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://www.gatsbyjs.com/">GatsbyJs</a>, <a href="https://sass-lang.com/">SASS</a>
 
 I also work on freelance Ecommerce projects. Here is the portfolio - <a href="https://inventtheweb.com/?utm_source=github&utm_medium=readme">Invent the Web</a>
 
