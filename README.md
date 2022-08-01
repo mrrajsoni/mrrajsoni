@@ -1,4 +1,6 @@
-👋 Frontend Developer (ReactJs) with 9 months of experience. Currently working for [Lumel Technologies](https://lumel.com).
+# Hello there 👋
+
+💪 Frontend Developer (ReactJs) with 11 months of experience. Currently working for [Lumel Technologies](https://lumel.com).
 
 💻 Tech Stack - <a href="https://reactjs.org/">ReactJs</a>, <a href="https://redux.js.org/">Redux</a>, <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://www.gatsbyjs.com/">GatsbyJs</a>, <a href="https://sass-lang.com/">SASS</a>
 
