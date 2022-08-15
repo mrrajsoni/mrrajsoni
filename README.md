@@ -6,7 +6,7 @@
 
 I also work on freelance Ecommerce projects. Here is the portfolio - <a href="https://inventtheweb.com/?utm_source=github&utm_medium=readme">Invent the Web</a>
 
-
+![](https://komarev.com/ghpvc/?username=mrrajsoni)
 
 <!---
 mrrajsoni/mrrajsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
