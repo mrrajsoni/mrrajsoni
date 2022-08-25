@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hey you! Yes, you who is reading this. You're breathtaking 😉
 
 💪 Frontend Developer (ReactJs) with 11 months of experience. Currently working for [Lumel Technologies](https://lumel.com).
 
