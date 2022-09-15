@@ -1,4 +1,4 @@
-# Hey you! Yes, you who is reading this. You're breathtaking 😉
+## “Hope is a good thing. Maybe the best of things. And no good thing ever dies.” — Andy Dufresne(Shawshank Redemption)
 
 💪 Frontend Developer (ReactJs) with a 1 year of experience. Currently working for [Lumel Technologies](https://lumel.com).
 
