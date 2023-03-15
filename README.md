@@ -1,6 +1,6 @@
 ## “Hope is a good thing. Maybe the best of things. And no good thing ever dies.” — Andy Dufresne(Shawshank Redemption)
 
-💪 Frontend Developer (ReactJs) with a 1 year 4 months of experience. Currently working for [Lumel Technologies](https://lumel.com).
+💪 Frontend Developer (ReactJs) with a 5+ years of experience. Currently working for [Lumel Technologies](https://lumel.com).
 
 💻 Tech Stack - <a href="https://reactjs.org/">ReactJs</a>, <a href="https://redux.js.org/">Redux</a>, <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://javascript.info/">JavaScript</a>, <a href="https://sass-lang.com/">SASS</a>
 
